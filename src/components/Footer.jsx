@@ -64,7 +64,7 @@ const Footer = () => {
             transition={{ duration: 1, delay: 0.5 }}
             className="text-sm"
           >
-            &copy; {new Date().getFullYear()} Your Name. All rights reserved.
+            &copy; {new Date().getFullYear()} Sudhir Rai. All rights reserved.
           </motion.p>
 
           <motion.a
